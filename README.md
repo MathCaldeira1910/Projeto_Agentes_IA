@@ -1,4 +1,4 @@
-<img width="212" height="25" alt="image" src="https://github.com/user-attachments/assets/365a5a2f-81a5-4d63-9c9b-9a9da87929ac" /># 🤖 Projeto - Agentes Inteligentes com LangChain e LangGraph
+# 🤖 Projeto - Agentes Inteligentes com LangChain e LangGraph
 
 ## 👥 Integrantes
 
