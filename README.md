@@ -56,6 +56,14 @@ python src/main.py
 
 ---
 
+## 🔐	APIs de modelos de linguagem
+
+```
+Iremos utilizar o Groq (LLMs otimizados) - Gratuito
+```
+
+---
+
 ## 🔐 Variáveis de ambiente
 
 Criar arquivo `.env`:
