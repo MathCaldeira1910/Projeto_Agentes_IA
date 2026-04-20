@@ -90,8 +90,8 @@ git pull
 
 👉 Trabalhe apenas na sua pasta:
 
-* fundamentals → Matheus/Kyoko
-* langgraph_core → Elder/Gabriel
+* fundamentals → Matheus
+* langgraph_core → Elder/Kyoko/Gabriel
 * etc.
 
 ❌ NÃO mexa no código dos outros
