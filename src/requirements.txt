@@ -1,0 +1,39 @@
+# Core LangChain ecosystem
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# Integração com Groq (LLM gratuito)
+langchain-groq
+
+# Monitoramento e debug
+langsmith
+
+# Variáveis de ambiente
+python-dotenv
+
+# Validação de dados
+pydantic
+
+# Requisições HTTP (para APIs e tools)
+requests
+
+# Manipulação de JSON e utilidades
+orjson
+
+# Async (para paralelismo futuro)
+aiohttp
+
+# Logging (debug mais profissional)
+loguru
+
+# Tipagem (ajuda no projeto)
+typing-extensions
+
+# (Opcional, mas recomendado)
+# Para testes
+pytest
+
+# Para trabalhar com datas
+python-dateutil
