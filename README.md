@@ -24,9 +24,9 @@ Desenvolver agentes inteligentes utilizando LangChain e LangGraph, explorando de
 ```
 src/
 ├── fundamentals/        # Matheus
-├── langgraph_core/      # Elder, Kyoko, Gabriel
-├── tools/               # Vitória
-├── memory/              # Gabriel Fávero
+├── langgraph_core/      # Elder, Kyoko, Gabriel, Luiz
+├── tools/               # Vitória, Gabriel Fávero
+├── memory/              # Vitória, Gabriel Fávero
 ├── multi_agent/         # Willian, Matheus
 └── main.py
 ```
